@@ -43,8 +43,7 @@ Nivel y Dificultad:
 El juego tiene un único nivel con dificultad ajustada entre fácil y media, lo que lo hace accesible pero desafiante para mejorar tu puntuación.
 
 
-Autor
-Kaleb Fuentes Puello
+Autor: Kaleb Fuentes Puello
 Correo: krfpdev@gmail.com
 Teléfono: +573005271964
 
